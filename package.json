@@ -1,0 +1,27 @@
+{
+  "name": "chat-node-socketio",
+  "version": "1.0.0",
+  "description": "Node.js and socket.io chat example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantosAdan/Chat-node-socketio.git"
+  },
+  "keywords": [
+    "chat",
+    "socket.io",
+    "express"
+  ],
+  "author": "Adan Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantosAdan/Chat-node-socketio/issues"
+  },
+  "homepage": "https://github.com/SantosAdan/Chat-node-socketio#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
